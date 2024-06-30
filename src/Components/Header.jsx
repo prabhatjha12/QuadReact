@@ -15,7 +15,7 @@ function Header() {
                 {/* <MagnifyingGlassCircleIcon className='h-6 w-6 text-gray-400'/> */}
                 {/* <input type="text" placeholder='Search' className='flex-1 outline-none  p-2 text-gray-900' /> */}
                 {/* <button className='bg-gray-900 text-gray-100 rounded-md p-2' type="submit " >Search</button> */}
-                <h1 className='py-3 px-5 font-bold bg-gray-100 rounded-md flex-1 gap-2'>QuadB Task Hub</h1>
+                <h1 className='py-3 px-5 font-bold bg-gray-100 rounded-md flex-1 gap-2'>QuadB Todo</h1>
             </form>
 
             {/* <Avatar className='border-2 border-white' name="prashuk" round size='50' color='gray'  /> */}
